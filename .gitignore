@@ -1,0 +1,6 @@
+data_CMU/
+pickle_data/
+backup/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc

@@ -1,0 +1,6 @@
+numpy
+pandas
+tensorflow=2.16.1
+xlrd
+bvh-converter
+protobuf=4.25.8
